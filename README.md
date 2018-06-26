@@ -6,6 +6,6 @@ My Notes on Papers
 2. [CIKM 2014 : A Latent Semantic Model with Convolutional-Pooling Structure for Information Retrieval](http://www.iro.umontreal.ca/~lisa/pointeurs/ir0895-he-2.pdf) This paper (**CDSSM**) incorporates a convolutional-pooling structure over word sequences to learn low-dimensional, semantic vector representations for search queries and Web documents. The Words are repesented as count of trigrams. Size of models is prop to N * 30K (as 30K trigrams)
 3. [CIKM 2016 : A Deep Relevance Matching Model for Ad-hoc Retrieval](https://arxiv.org/pdf/1711.08611.pdf) (**DRMM**)
 ad-hoc retrieval task is mainly about `relevance matching` while most NLP matching tasks concern `semantic matching`, and there are some
-fundamental differences between these two matching tasks.Successful relevance matching requires proper handling of the `exact matching signals, query term importance, and diverse matching requirements`.
+fundamental differences between these two matching tasks.Successful relevance matching requires proper handling of the `exact matching signals, query term importance, and diverse matching requirements`. Uses `Matching Histograms` to take care of variable length queries and documents.
 
 
