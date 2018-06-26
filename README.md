@@ -13,4 +13,4 @@ fundamental differences between these two matching tasks.Successful relevance ma
 
 1. [SIGIR 2015 : Learning to reweight terms with distributed representations](https://www.cs.cmu.edu/~callan/Papers/sigir15-gzheng.pdf)
 1. [IJCAI 2015 : Syntax-based Deep Matching of Short Texts](https://arxiv.org/pdf/1503.02427.pdf)
-1. 
+1. [SIGIR 2017 : A Deep Investigation of Deep IR Models](http://www.bigdatalab.ac.cn/~gjf/papers/2017/DeepInvestigation.pdf)
