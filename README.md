@@ -7,6 +7,6 @@ My Notes on Papers
 3. [CIKM 2016 : A Deep Relevance Matching Model for Ad-hoc Retrieval](https://arxiv.org/pdf/1711.08611.pdf) (**DRMM**)
 ad-hoc retrieval task is mainly about `relevance matching` while most NLP matching tasks concern `semantic matching`, and there are some
 fundamental differences between these two matching tasks.Successful relevance matching requires proper handling of the `exact matching signals, query term importance, and diverse matching requirements`. Uses `Matching Histograms` to take care of variable length documents so that no padding is required. Later aggregates the match for each query term using a Gating Mechanism (query reweighting). 
-4. [SIGIR 2015 : Learning to reweight terms with distributed representations] (https://www.cs.cmu.edu/~callan/Papers/sigir15-gzheng.pdf)
+4. [SIGIR 2015 : Learning to reweight terms with distributed representations](https://www.cs.cmu.edu/~callan/Papers/sigir15-gzheng.pdf)
 
 
