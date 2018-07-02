@@ -1,6 +1,7 @@
 # PaperNotes
 My Notes on Papers 
-
+## July 2018
+1. [CIKM 2016: The Role of Relevance in Sponsored Search](https://iarapakis.github.io/papers/CIKM16.pdf) This paper measure the relevance between an advertisement and a query without rely- ing on the advertisement’s click history, and present differ- ent ways of leveraging this relevance to improve user search experience without reducing search engine revenue. *Text Features, Evaluation Method, RankScore computation, Relevance Judgements historgram and thresholding*
 ## June 2018
 1. [CIKM 2013 : Learning deep structured semantic models for web search using clickthrough data](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/cikm2013_DSSM_fullversion.pdf). **DSSM** is **CDSSM** without pooling and convolution.
 1. [CIKM 2014 : A Latent Semantic Model with Convolutional-Pooling Structure for Information Retrieval](http://www.iro.umontreal.ca/~lisa/pointeurs/ir0895-he-2.pdf) This paper (**CDSSM**) incorporates a convolutional-pooling structure over word sequences to learn low-dimensional, semantic vector representations for search queries and Web documents. The Words are repesented as count of trigrams. Size of models is prop to N * 30K (as 30K trigrams).`Why not used embedding for trigrams`
